@@ -1,0 +1,14 @@
+Name	About	Labels	Assignees
+🐛 Bug report	Something isn't working as expected? Here is the right place to report.	bug	
+Please fill out each section below. This info allows maintainers to diagnose (and fix!) your issue as quickly as possible. Before opening a new issue, please search existing issues here.
+
+Describe the bug
+*
+A clear and concise description of what the bug is
+
+Steps to reproduce
+*
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
